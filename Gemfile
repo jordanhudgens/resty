@@ -51,3 +51,5 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'newrelic_rpm'
+
